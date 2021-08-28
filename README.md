@@ -1,2 +1,2 @@
-# audiowagon_alpha_issues
-Issue tracker for AudioWagon alpha version
+# audiowagon_beta_issues
+Issue tracker for AudioWagon beta version
