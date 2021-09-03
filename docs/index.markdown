@@ -68,7 +68,7 @@ with a white outline). The other USB ports are for charging your phone only.
 
 Sorry, I don't know why that happens. It works fine on the mobile phone that I use for development, however the car
 maker probably put some extra security in the car that will always trigger this permission dialog popup. I would need
-help from the car maker or Google to improve this.
+help from the car maker or Google™ to improve this.
 
 ### Why does it say "Loading content &hellip;" and nothing happens?
 
