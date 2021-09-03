@@ -1,8 +1,8 @@
 logo: "/img/logo.png"
-title: test
-email: test@example.com
+title: AudioWagon documentation
+email: moleman1024dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  test
+  AudioWagon. Android Automotive OS USB music player
 baseurl: "/audiowagon_beta"
 url: "https://moleman1024.github.io"
 github_username: MoleMan1024
