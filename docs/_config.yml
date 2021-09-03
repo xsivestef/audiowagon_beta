@@ -10,7 +10,7 @@ color_scheme: audiowagon
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 aux_links:
-  "Source code on GitHub":
+  "Source code on GitHub (coming soon)":
     - "//github.com/MoleMan1024/audiowagon_beta/"
 footer_content: "Copyright &copy; 2021 MoleMan1024"
 
