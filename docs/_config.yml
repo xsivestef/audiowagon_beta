@@ -3,7 +3,7 @@ title: test
 email: test@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   test
-baseurl: "/audiowagon_beta_issues"
+baseurl: "/audiowagon_beta"
 url: "https://moleman1024.github.io"
 github_username: MoleMan1024
 color_scheme: audiowagon
@@ -11,6 +11,6 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 aux_links:
   "Source code on GitHub":
-    - "//github.com/MoleMan1024/audiowagon_beta_issues/"
+    - "//github.com/MoleMan1024/audiowagon_beta/"
 footer_content: "Copyright &copy; 2021 MoleMan1024"
 

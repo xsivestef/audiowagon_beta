@@ -4,8 +4,8 @@ title: For developers
 nav_order: 2
 ---
 
-# test
+# AudioWagon developer documentation
 
-nothing here yet
+coming soon
 
 
