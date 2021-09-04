@@ -136,7 +136,7 @@ the following info to me at my email:
 - What happened? Describe all steps that you did exactly
 - What did you expect to happen?
 - At what date/time did the issue happen? (so I can align with the timestamps in the log files)
-- Log files are being created continously on your USB stick (if this is enabled in the settings). Please attach these 
+- Log files are being created continously on your USB drive (if this is enabled in the settings). Please attach these 
 logfiles from around the date/time when this happened (also provide previous logfile). They have filenames like 
 `audiowagon_<date_and_time>.log`.
 
